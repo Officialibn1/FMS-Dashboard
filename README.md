@@ -1,5 +1,11 @@
 # Fleet Management Admin Dashboard
 
+## MAIN DASHBOARD DARK
+![MAIN DASHBOARD DARK](https://raw.githubusercontent.com/Officialibn1/ibnsassets/main/uploads/FMS%20Dark.png)
+
+## MAIN DASHBOARD LIGHT
+![MAIN DASHBOARD LIGHT](https://raw.githubusercontent.com/Officialibn1/ibnsassets/main/uploads/FMS%20Light.png)
+
 ## Built using 
 * Reactjs
 * Material UI
