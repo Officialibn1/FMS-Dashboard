@@ -1,7 +1,23 @@
-# React Admin Dashboard
+# Fleet Management Admin Dashboard
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+## Built using 
+* Reactjs
+* Material UI
+* Material Data Grid
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
+> Also have light and dark theme 🌤️ 🌙
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+### Steps to run the project on your local repo
+* Clone or Fork this repo
+* Open a terminal at the folder
+* Run this command
+  * Install all dependencies with
+  * ```bash
+    npm install
+    ```
+  * Start local server
+  * ```bash
+    npm start
+    ```
+    
+
