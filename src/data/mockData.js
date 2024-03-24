@@ -1281,3 +1281,99 @@ export const mockGeographyData = [
     value: 171135,
   },
 ];
+
+export const mockFleetData = [
+  {
+    id: "FL-001",
+    make: "Toyota",
+    image: 'https://imgd-ct.aeplcdn.com/370x208/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80',
+    model: "Camry",
+    year: "2022",
+    licensePlate: "ABC123",
+    vin: "JH4KB2H12CK000000",
+    fuelType: "Gasoline",
+    mileage: 35000,
+    status: "Active",
+    location: "382, Garki, Abuja",
+    lastMaintenance: "2023-11-10",
+
+  },
+  {
+    id: "FL-002",
+    make: "Honda",
+    image: 'https://imgd-ct.aeplcdn.com/370x208/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80',
+    model: "Accord",
+    year: "2020",
+    licensePlate: "DEF456",
+    vin: "1HGCR2F38AK000000",
+    fuelType: "Hybrid",
+    mileage: 22000,
+    status: "In Service",
+    location: "902, Banana, Lagos",
+    lastMaintenance: "2023-11-10",
+
+  },
+  {
+    id: "FL-014",
+    make: "Ford",
+    image: 'https://imgd-ct.aeplcdn.com/370x208/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80',
+    model: "Escape",
+    year: "2023",
+    licensePlate: "GHI789",
+    vin: "1FMCU7C84GKA00000",
+    fuelType: "Gasoline",
+    mileage: 18000,
+    status: "Active",
+    location: "123, Sabo, Kano",
+    lastMaintenance: "2023-11-10",
+
+  },
+  {
+    id: "FL-015",
+    make: "Nissan",
+    image: 'https://imgd-ct.aeplcdn.com/370x208/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80',
+    model: "Altima",
+    year: "2021",
+    licensePlate: "JKL012",
+    vin: "JN1ANAD22M0000000",
+    fuelType: "Electric",
+    mileage: 15000,
+    status: "In Service",
+    location: "298, Ikeja, Ibadan",
+    lastMaintenance: "2023-11-10",
+
+  },
+  {
+    id: "V001",
+    make: "Toyota",
+    image: 'https://imgd-ct.aeplcdn.com/370x208/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80',
+    model: "Camry",
+    year: 2020,
+    licensePlate: "ABC123",
+    vin: "1HGCM82633A000001",
+    fuelType: "Gasoline",
+    mileage: 50000,
+    status: "Active",
+    location: "123 Main St, City",
+    lastMaintenance: "2023-12-20",
+
+  },
+  // Add more vehicle objects here
+  {
+    id: "V002",
+    make: "Ford",
+    image: 'https://imgd-ct.aeplcdn.com/370x208/n/cw/ec/40432/scorpio-n-exterior-right-front-three-quarter-75.jpeg?isig=0&q=80',
+    model: "F-150",
+    year: 2018,
+    licensePlate: "DEF456",
+    vin: "1FTMF1CM9JKD12345",
+    fuelType: "Gasoline",
+    mileage: 60000,
+    status: "Active",
+    location: "456 Oak St, Town",
+    lastMaintenance: "2023-11-10",
+
+  },
+
+];
+

@@ -11,6 +11,7 @@ import ReceiptOutlinedIcon from "@mui/icons-material/ReceiptOutlined";
 import PersonOutlinedIcon from "@mui/icons-material/PersonOutlined";
 import CalendarTodayOutlinedIcon from "@mui/icons-material/CalendarTodayOutlined";
 // import HelpOutlineOutlinedIcon from "@mui/icons-material/HelpOutlineOutlined";
+import DirectionsCarFilledOutlinedIcon from "@mui/icons-material/DirectionsCarFilledOutlined";
 import BarChartOutlinedIcon from "@mui/icons-material/BarChartOutlined";
 import PieChartOutlineOutlinedIcon from "@mui/icons-material/PieChartOutlineOutlined";
 import TimelineOutlinedIcon from "@mui/icons-material/TimelineOutlined";
@@ -152,6 +153,14 @@ const Sidebar = () => {
 							title='Fleet Drivers'
 							to='/contacts'
 							icon={<ContactsOutlinedIcon />}
+							selected={selected}
+							setSelected={setSelected}
+						/>
+
+						<Item
+							title='Fleet Vehicles'
+							to='/fleets'
+							icon={<DirectionsCarFilledOutlinedIcon />}
 							selected={selected}
 							setSelected={setSelected}
 						/>
